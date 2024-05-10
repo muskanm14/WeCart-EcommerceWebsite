@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.data-jpa=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.data-rest=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.lombok=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.postgresql=1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=ecommercebackend
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=3.0.0
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Spring Boot Angular proj ref udemy
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.muskan
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=19
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=ecommercebackend
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.example.demo
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=0.0.1-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n
